@@ -2718,8 +2718,8 @@ input, select, textarea {
 
 				ul.grid-icons li > .inner h3 {
 					font-size: 1em;
-					font-weight: 600;
-					margin: 0;
+					font-weight: 200;
+					margin: 1.5em 1.5em;
 				}
 
 		@media screen and (max-width: 736px) {
